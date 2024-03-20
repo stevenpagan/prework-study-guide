@@ -8,7 +8,7 @@ function listTopics() {
     }
 }
 
-function slectTopic() {
+function selectTopic() {
     if (randomTopic === 'HTML') {
         console.log("Let's study HTML!");
     } else if (randomTopic === 'CSS') {
